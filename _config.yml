@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
+url: "http://username.github.io"
+baseurl: "MusicGenerator"
 title: Music Generator
-version: v0.1.1
