@@ -1,5 +1,3 @@
 theme: jekyll-theme-cayman
-url: "http://username.github.io"
-baseurl: "MusicGenerator"
 title: Music Generator
 show_downloads: true
